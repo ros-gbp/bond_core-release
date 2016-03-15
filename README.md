@@ -1,3 +1,34 @@
+## bond_core (kinetic) - 1.7.17-0
+
+The packages in the `bond_core` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release bond_core --track kinetic --rosdistro kinetic --new-track` on `Tue, 15 Mar 2016 18:01:18 -0000`
+
+These packages were released:
+- `bond`
+- `bond_core`
+- `bondcpp`
+- `bondpy`
+- `smclib`
+
+These packages were explicitly ignored:
+- `test_bond`
+
+Version of package(s) in repository `bond_core`:
+
+- upstream repository: https://github.com/ros/bond_core.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `1.7.17-0`
+
+Versions of tools used:
+
+- bloom version: `0.5.21`
+- catkin_pkg version: `0.2.10`
+- rosdep version: `0.11.4`
+- rosdistro version: `0.4.5`
+- vcstools version: `0.1.38`
+
+
 ## bond_core (jade) - 1.7.16-0
 
 The packages in the `bond_core` repository were released into the `jade` distro by running `/usr/bin/bloom-release bond_core --track jade --rosdistro jade --new-track` on `Wed, 31 Dec 2014 19:20:21 -0000`
