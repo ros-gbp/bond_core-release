@@ -1,3 +1,34 @@
+## bond_core (indigo) - 1.7.17-0
+
+The packages in the `bond_core` repository were released into the `indigo` distro by running `/usr/bin/bloom-release bond_core --rosdistro indigo --track indigo` on `Wed, 22 Jun 2016 15:41:06 -0000`
+
+These packages were released:
+- `bond`
+- `bond_core`
+- `bondcpp`
+- `bondpy`
+- `smclib`
+
+These packages were explicitly ignored:
+- `test_bond`
+
+Version of package(s) in repository `bond_core`:
+
+- upstream repository: https://github.com/ros/bond_core.git
+- release repository: https://github.com/ros-gbp/bond_core-release.git
+- rosdistro version: `1.7.16-0`
+- old version: `1.7.16-0`
+- new version: `1.7.17-0`
+
+Versions of tools used:
+
+- bloom version: `0.5.21`
+- catkin_pkg version: `0.2.10`
+- rosdep version: `0.11.5`
+- rosdistro version: `0.4.7`
+- vcstools version: `0.1.38`
+
+
 ## bond_core (jade) - 1.7.17-0
 
 The packages in the `bond_core` repository were released into the `jade` distro by running `/usr/bin/bloom-release bond_core --rosdistro jade --track jade` on `Wed, 22 Jun 2016 15:37:03 -0000`
