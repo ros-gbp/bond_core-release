@@ -1,0 +1,12 @@
+Source: ros-jade-bondpy
+Section: misc
+Priority: extra
+Maintainer: Mikael Arguedas <mikael@osrfoundation.org>
+Build-Depends: debhelper (>= 9.0.0), ros-jade-bond, ros-jade-catkin, ros-jade-rospy, ros-jade-smclib
+Homepage: http://www.ros.org/wiki/bondpy
+Standards-Version: 3.9.2
+
+Package: ros-jade-bondpy
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-jade-rospy, ros-jade-smclib, uuid-dev
+Description: Python implementation of bond, a mechanism for checking when another process has terminated.
