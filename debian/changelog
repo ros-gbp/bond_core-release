@@ -1,0 +1,138 @@
+ros-lunar-bond (1.7.18-1yakkety) yakkety; urgency=high
+
+
+
+ -- Mikael Arguedas <mikael@osrfoundation.org>  Mon, 24 Oct 2016 07:00:00 -0000
+
+ros-lunar-bond (1.7.17-1yakkety) yakkety; urgency=high
+
+  * update maintainer
+  * Contributors: Mikael Arguedas
+
+ -- Mikael Arguedas <mikael@osrfoundation.org>  Tue, 15 Mar 2016 07:00:00 -0000
+
+ros-lunar-bond (1.7.16-1yakkety) yakkety; urgency=high
+
+
+
+ -- Mikael Arguedas <mikael@osrfoundation.org>  Thu, 30 Oct 2014 07:00:00 -0000
+
+ros-lunar-bond (1.7.15-1yakkety) yakkety; urgency=high
+
+
+
+ -- Mikael Arguedas <mikael@osrfoundation.org>  Tue, 28 Oct 2014 07:00:00 -0000
+
+ros-lunar-bond (1.7.14-1yakkety) yakkety; urgency=high
+
+  * Export architecture_independent flag in package.xml #4 <https://github.com/ros/bond_core/pull/4>
+  * Update maintainer field
+  * Contributors: Esteve Fernandez, Scott K Logan, Vincent Rabaud
+
+ -- Mikael Arguedas <mikael@osrfoundation.org>  Thu, 08 May 2014 07:00:00 -0000
+
+ros-lunar-bond (1.7.13-1yakkety) yakkety; urgency=high
+
+
+
+ -- Mikael Arguedas <mikael@osrfoundation.org>  Wed, 21 Aug 2013 07:00:00 -0000
+
+ros-lunar-bond (1.7.12-1yakkety) yakkety; urgency=high
+
+
+
+ -- Mikael Arguedas <mikael@osrfoundation.org>  Thu, 06 Jun 2013 07:00:00 -0000
+
+ros-lunar-bond (1.7.11-1yakkety) yakkety; urgency=high
+
+
+
+ -- Mikael Arguedas <mikael@osrfoundation.org>  Wed, 13 Mar 2013 07:00:00 -0000
+
+ros-lunar-bond (1.7.10-1yakkety) yakkety; urgency=high
+
+
+
+ -- Mikael Arguedas <mikael@osrfoundation.org>  Sun, 13 Jan 2013 08:00:00 -0000
+
+ros-lunar-bond (1.7.9-1yakkety) yakkety; urgency=high
+
+  * modified dep type of catkin
+  * Contributors: Dirk Thomas
+
+ -- Mikael Arguedas <mikael@osrfoundation.org>  Thu, 27 Dec 2012 08:00:00 -0000
+
+ros-lunar-bond (1.7.8-1yakkety) yakkety; urgency=high
+
+  * add missing downstream depend
+  * switched from langs to message_* packages
+  * Contributors: Dirk Thomas
+
+ -- Mikael Arguedas <mikael@osrfoundation.org>  Thu, 13 Dec 2012 08:00:00 -0000
+
+ros-lunar-bond (1.7.7-1yakkety) yakkety; urgency=high
+
+  * Updated url tags in package.xml's  #1 <https://github.com/ros/bond_core/pull/1>
+  * Contributors: William Woodall
+
+ -- Mikael Arguedas <mikael@osrfoundation.org>  Thu, 06 Dec 2012 08:00:00 -0000
+
+ros-lunar-bond (1.7.6-1yakkety) yakkety; urgency=high
+
+  * fix catkin function order
+  * Contributors: Dirk Thomas
+
+ -- Mikael Arguedas <mikael@osrfoundation.org>  Tue, 30 Oct 2012 07:00:00 -0000
+
+ros-lunar-bond (1.7.5-1yakkety) yakkety; urgency=high
+
+  * clean up package.xml files
+  * Contributors: Dirk Thomas
+
+ -- Mikael Arguedas <mikael@osrfoundation.org>  Sat, 27 Oct 2012 07:00:00 -0000
+
+ros-lunar-bond (1.7.4-1yakkety) yakkety; urgency=high
+
+
+
+ -- Mikael Arguedas <mikael@osrfoundation.org>  Sat, 06 Oct 2012 07:00:00 -0000
+
+ros-lunar-bond (1.7.3-1yakkety) yakkety; urgency=high
+
+
+
+ -- Mikael Arguedas <mikael@osrfoundation.org>  Tue, 02 Oct 2012 07:19:00 -0000
+
+ros-lunar-bond (1.7.2-1yakkety) yakkety; urgency=high
+
+  * add the missing catkin dependency
+  * Contributors: Vincent Rabaud
+
+ -- Mikael Arguedas <mikael@osrfoundation.org>  Tue, 02 Oct 2012 07:06:00 -0000
+
+ros-lunar-bond (1.7.1-1yakkety) yakkety; urgency=high
+
+
+
+ -- Mikael Arguedas <mikael@osrfoundation.org>  Tue, 02 Oct 2012 02:00:00 -0000
+
+ros-lunar-bond (1.7.0-1yakkety) yakkety; urgency=high
+
+  * catkinize the package and bump to 1.7.0 even though it is not tagged yet
+  * Modified bond's state machine to handle "alive" messages from the sibling when already dead.
+    --HG--
+    extra : convert_revision : svn%3Aeb33c2ac-9c88-4c90-87e0-44a10359b0c3/stacks/common/trunk%4036189
+  * Added global "bond_disable_heartbeat_timeout" parameter
+    --HG--
+    extra : convert_revision : svn%3Aeb33c2ac-9c88-4c90-87e0-44a10359b0c3/stacks/common/trunk%4036106
+  * The bond state machine more gracefully handles excessive requests to die.
+    --HG--
+    extra : convert_revision : svn%3Aeb33c2ac-9c88-4c90-87e0-44a10359b0c3/stacks/common/trunk%4032653
+  * Moving bond into common
+    --HG--
+    extra : convert_revision : svn%3Aeb33c2ac-9c88-4c90-87e0-44a10359b0c3/stacks/common/trunk%4032634
+  * Contributors: Vincent Rabaud, sglaser
+
+ -- Mikael Arguedas <mikael@osrfoundation.org>  Mon, 01 Oct 2012 23:51:00 -0000
+
+
