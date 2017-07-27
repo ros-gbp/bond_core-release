@@ -1,3 +1,34 @@
+## bond_core (lunar) - 1.8.0-0
+
+The packages in the `bond_core` repository were released into the `lunar` distro by running `/usr/bin/bloom-release bond_core -r lunar -t lunar` on `Thu, 27 Jul 2017 17:06:45 -0000`
+
+These packages were released:
+- `bond`
+- `bond_core`
+- `bondcpp`
+- `bondpy`
+- `smclib`
+
+These packages were explicitly ignored:
+- `test_bond`
+
+Version of package(s) in repository `bond_core`:
+
+- upstream repository: https://github.com/ros/bond_core.git
+- release repository: https://github.com/ros-gbp/bond_core-release.git
+- rosdistro version: `1.7.19-0`
+- old version: `1.7.19-0`
+- new version: `1.8.0-0`
+
+Versions of tools used:
+
+- bloom version: `0.5.26`
+- catkin_pkg version: `0.3.5`
+- rosdep version: `0.11.5`
+- rosdistro version: `0.6.2`
+- vcstools version: `0.1.39`
+
+
 ## bond_core (indigo) - 1.7.19-0
 
 The packages in the `bond_core` repository were released into the `indigo` distro by running `/usr/bin/bloom-release -r indigo -t indigo bond_core` on `Thu, 06 Apr 2017 20:49:48 -0000`
