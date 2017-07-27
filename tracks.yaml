@@ -8,7 +8,7 @@ tracks:
     - git-bloom-generate -y rosrelease :{ros_distro} --source upstream -i :{release_inc}
     - git-bloom-generate -y rosdebian --prefix release/:{ros_distro} :{ros_distro}
       -i :{release_inc}
-    devel_branch: null
+    devel_branch: groovy-devel
     last_version: 1.7.14
     name: bond_core
     patches: null
@@ -30,7 +30,7 @@ tracks:
       -i :{release_inc}
     - git-bloom-generate -y rosrpm --prefix release/:{ros_distro} :{ros_distro} -i
       :{release_inc}
-    devel_branch: null
+    devel_branch: groovy-devel
     last_version: 1.7.16
     name: bond_core
     patches: null
@@ -54,7 +54,7 @@ tracks:
       -i :{release_inc} --os-name debian --os-not-required
     - git-bloom-generate -y rosrpm --prefix release/:{ros_distro} :{ros_distro} -i
       :{release_inc}
-    devel_branch: null
+    devel_branch: groovy-devel
     last_version: 1.7.19
     name: upstream
     patches: null
@@ -78,7 +78,7 @@ tracks:
       -i :{release_inc} --os-name debian --os-not-required
     - git-bloom-generate -y rosrpm --prefix release/:{ros_distro} :{ros_distro} -i
       :{release_inc}
-    devel_branch: null
+    devel_branch: groovy-devel
     last_version: 1.7.19
     name: bond_core
     patches: null
@@ -102,7 +102,7 @@ tracks:
       -i :{release_inc} --os-name debian --os-not-required
     - git-bloom-generate -y rosrpm --prefix release/:{ros_distro} :{ros_distro} -i
       :{release_inc}
-    devel_branch: null
+    devel_branch: groovy-devel
     last_version: 1.7.19
     name: bond_core
     patches: null
@@ -126,7 +126,7 @@ tracks:
       -i :{release_inc} --os-name debian --os-not-required
     - git-bloom-generate -y rosrpm --prefix release/:{ros_distro} :{ros_distro} -i
       :{release_inc}
-    devel_branch: null
+    devel_branch: lunar-devel
     last_version: 1.7.19
     name: bond_core
     patches: null
