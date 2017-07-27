@@ -1,0 +1,202 @@
+ros-lunar-bondcpp (1.8.0-0yakkety) yakkety; urgency=high
+
+  * Use SteadyTime and SteadyTimer for bond timeouts (#18 <https://github.com/ros/bond_core/issues/18>)
+  * C++ style (#28 <https://github.com/ros/bond_core/issues/28>)
+  * switch to package format 2 (#27 <https://github.com/ros/bond_core/issues/27>)
+  * remove trailing whitespaces (#26 <https://github.com/ros/bond_core/issues/26>)
+  * Contributors: Felix Ruess, Mikael Arguedas
+
+ -- Mikael Arguedas <mikael@osrfoundation.org>  Thu, 27 Jul 2017 04:00:00 -0000
+
+ros-lunar-bondcpp (1.7.19-0yakkety) yakkety; urgency=high
+
+  * fix unused var warning
+  * Contributors: Mikael Arguedas
+
+ -- Mikael Arguedas <mikael@osrfoundation.org>  Mon, 27 Mar 2017 04:00:00 -0000
+
+ros-lunar-bondcpp (1.7.18-0yakkety) yakkety; urgency=high
+
+  * fix -isystem /usr/include build breakage in gcc6
+  * Contributors: Mikael Arguedas
+
+ -- Mikael Arguedas <mikael@osrfoundation.org>  Mon, 24 Oct 2016 04:00:00 -0000
+
+ros-lunar-bondcpp (1.7.17-0yakkety) yakkety; urgency=high
+
+  * update maintainer
+  * Contributors: Mikael Arguedas
+
+ -- Mikael Arguedas <mikael@osrfoundation.org>  Tue, 15 Mar 2016 04:00:00 -0000
+
+ros-lunar-bondcpp (1.7.16-0yakkety) yakkety; urgency=high
+
+  * Fix depedency version
+  * Contributors: Esteve Fernandez
+
+ -- Mikael Arguedas <mikael@osrfoundation.org>  Thu, 30 Oct 2014 04:00:00 -0000
+
+ros-lunar-bondcpp (1.7.15-0yakkety) yakkety; urgency=high
+
+  * Added version dependency.
+  * Removed redundant include_directories
+  * Added cmake_modules in alphabetical order
+  * Use FindUUID.cmake from cmake-modules to find the UUID libraries #8 <https://github.com/ros/bond_core/pull/8>
+  * Contributors: Esteve Fernandez
+
+ -- Mikael Arguedas <mikael@osrfoundation.org>  Tue, 28 Oct 2014 04:00:00 -0000
+
+ros-lunar-bondcpp (1.7.14-0yakkety) yakkety; urgency=high
+
+  * Update maintainer field
+  * Contributors: Esteve Fernandez, Vincent Rabaud
+
+ -- Mikael Arguedas <mikael@osrfoundation.org>  Thu, 08 May 2014 04:00:00 -0000
+
+ros-lunar-bondcpp (1.7.13-0yakkety) yakkety; urgency=high
+
+  * Use c++ style reinterpret_cast rather than c style cast
+  * use rpc for uuid on windows
+  * add missing archive/library/runtime destinations for library
+  * Contributors: David Hodo, Dirk Thomas, William Woodall
+
+ -- Mikael Arguedas <mikael@osrfoundation.org>  Wed, 21 Aug 2013 04:00:00 -0000
+
+ros-lunar-bondcpp (1.7.12-0yakkety) yakkety; urgency=high
+
+  * fix dependency on exported targets if the variable is empty
+  * use EXPORTED_TARGETS variable instead of explicit target names
+  * Contributors: Dirk Thomas
+
+ -- Mikael Arguedas <mikael@osrfoundation.org>  Thu, 06 Jun 2013 04:00:00 -0000
+
+ros-lunar-bondcpp (1.7.11-0yakkety) yakkety; urgency=high
+
+
+
+ -- Mikael Arguedas <mikael@osrfoundation.org>  Wed, 13 Mar 2013 04:00:00 -0000
+
+ros-lunar-bondcpp (1.7.10-0yakkety) yakkety; urgency=high
+
+  * add missing link library uuid #6 <https://github.com/ros/bond_core/issues/6>
+  * Contributors: Dirk Thomas
+
+ -- Mikael Arguedas <mikael@osrfoundation.org>  Sun, 13 Jan 2013 05:00:00 -0000
+
+ros-lunar-bondcpp (1.7.9-0yakkety) yakkety; urgency=high
+
+  * modified dep type of catkin
+  * Contributors: Dirk Thomas
+
+ -- Mikael Arguedas <mikael@osrfoundation.org>  Thu, 27 Dec 2012 05:00:00 -0000
+
+ros-lunar-bondcpp (1.7.8-0yakkety) yakkety; urgency=high
+
+
+
+ -- Mikael Arguedas <mikael@osrfoundation.org>  Thu, 13 Dec 2012 05:00:00 -0000
+
+ros-lunar-bondcpp (1.7.7-0yakkety) yakkety; urgency=high
+
+  * Added missing link against catkin_LIBRARIES
+  * Updated url tags in package.xml's #1 <https://github.com/ros/bond_core/pull/1>
+  * updated catkin_package(DEPENDS)
+  * Contributors: Dirk Thomas, William Woodall
+
+ -- Mikael Arguedas <mikael@osrfoundation.org>  Thu, 06 Dec 2012 05:00:00 -0000
+
+ros-lunar-bondcpp (1.7.6-0yakkety) yakkety; urgency=high
+
+  * fix catkin function order
+  * Contributors: Dirk Thomas
+
+ -- Mikael Arguedas <mikael@osrfoundation.org>  Tue, 30 Oct 2012 04:00:00 -0000
+
+ros-lunar-bondcpp (1.7.5-0yakkety) yakkety; urgency=high
+
+  * clean up package.xml files
+  * add missing target dependency to gencpp
+  * Contributors: Dirk Thomas
+
+ -- Mikael Arguedas <mikael@osrfoundation.org>  Sat, 27 Oct 2012 04:00:00 -0000
+
+ros-lunar-bondcpp (1.7.4-0yakkety) yakkety; urgency=high
+
+
+
+ -- Mikael Arguedas <mikael@osrfoundation.org>  Sat, 06 Oct 2012 04:00:00 -0000
+
+ros-lunar-bondcpp (1.7.3-0yakkety) yakkety; urgency=high
+
+  * fix package building issues
+  * Contributors: Vincent Rabaud
+
+ -- Mikael Arguedas <mikael@osrfoundation.org>  Tue, 02 Oct 2012 04:19:00 -0000
+
+ros-lunar-bondcpp (1.7.2-0yakkety) yakkety; urgency=high
+
+  * add the missing catkin dependency
+  * Contributors: Vincent Rabaud
+
+ -- Mikael Arguedas <mikael@osrfoundation.org>  Tue, 02 Oct 2012 04:06:00 -0000
+
+ros-lunar-bondcpp (1.7.1-0yakkety) yakkety; urgency=high
+
+  * add missing dependencies
+  * Contributors: Vincent Rabaud
+
+ -- Mikael Arguedas <mikael@osrfoundation.org>  Mon, 01 Oct 2012 23:00:00 -0000
+
+ros-lunar-bondcpp (1.7.0-0yakkety) yakkety; urgency=high
+
+  * catkinize bond
+  * catkinize the package and bump to 1.7.0 even though it is not tagged yet
+  * add link flag for OSX
+  * removed spurious reference to libroslib
+  * bondcpp now explicitly links against the ros library.  #5334 <https://github.com/ros/bond_core/issues/5334>
+  * Changed ros::Time/Duration to ros::WallTime/WallDuration so Bond still works when time stops.  Fixes #5035 <https://github.com/ros/bond_core/issues/5035>
+  * Fixed destruction bug: doesn't destroy things if the bond was never started.
+  * Can now set a bond's callback queue
+    --HG--
+    extra : convert_revision : svn%3Aeb33c2ac-9c88-4c90-87e0-44a10359b0c3/stacks/common/trunk%4037081
+  * Modified bond's state machine to handle "alive" messages from the sibling when already dead.
+    --HG--
+    extra : convert_revision : svn%3Aeb33c2ac-9c88-4c90-87e0-44a10359b0c3/stacks/common/trunk%4036189
+  * Added global "bond_disable_heartbeat_timeout" parameter
+    --HG--
+    extra : convert_revision : svn%3Aeb33c2ac-9c88-4c90-87e0-44a10359b0c3/stacks/common/trunk%4036106
+  * typo
+    --HG--
+    extra : convert_revision : svn%3Aeb33c2ac-9c88-4c90-87e0-44a10359b0c3/stacks/common/trunk%4035731
+  * rosdep and packages are not the same
+    --HG--
+    extra : convert_revision : svn%3Aeb33c2ac-9c88-4c90-87e0-44a10359b0c3/stacks/common/trunk%4035730
+  * patch from stevenbellens for fedora uuid support #4756 <https://github.com/ros/bond_core/issues/4756>
+    --HG--
+    extra : convert_revision : svn%3Aeb33c2ac-9c88-4c90-87e0-44a10359b0c3/stacks/common/trunk%4035729
+  * Re-ordering locking in bondcpp's destructor
+    --HG--
+    extra : convert_revision : svn%3Aeb33c2ac-9c88-4c90-87e0-44a10359b0c3/stacks/common/trunk%4035719
+  * In bond, wait_until_formed and wait_until_broken terminate when ROS shuts down.
+    --HG--
+    extra : convert_revision : svn%3Aeb33c2ac-9c88-4c90-87e0-44a10359b0c3/stacks/common/trunk%4035632
+  * Bond no longer warns on destructor when the other side disappeared.
+    --HG--
+    extra : convert_revision : svn%3Aeb33c2ac-9c88-4c90-87e0-44a10359b0c3/stacks/common/trunk%4035573
+  * removed wiki syntax from description
+    --HG--
+    extra : convert_revision : svn%3Aeb33c2ac-9c88-4c90-87e0-44a10359b0c3/stacks/common/trunk%4035392
+  * Creating package descriptions for bondpy, bondcpp, and test_bond.
+    --HG--
+    extra : convert_revision : svn%3Aeb33c2ac-9c88-4c90-87e0-44a10359b0c3/stacks/common/trunk%4035354
+  * The bond state machine more gracefully handles excessive requests to die.
+    --HG--
+    extra : convert_revision : svn%3Aeb33c2ac-9c88-4c90-87e0-44a10359b0c3/stacks/common/trunk%4032653
+  * Moving bond into common
+    --HG--
+    extra : convert_revision : svn%3Aeb33c2ac-9c88-4c90-87e0-44a10359b0c3/stacks/common/trunk%4032634
+  * Contributors: Brian Gerkey, Stuart Glaser, Vincent Rabaud, kwc, sglaser, tfoote
+
+ -- Mikael Arguedas <mikael@osrfoundation.org>  Mon, 01 Oct 2012 20:51:00 -0000
+
+
