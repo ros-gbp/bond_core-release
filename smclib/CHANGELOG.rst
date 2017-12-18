@@ -2,13 +2,9 @@
 Changelog for package smclib
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-1.8.1 (2017-10-27)
-------------------
-* fix package.xml to comply with schema (`#30 <https://github.com/ros/bond_core/issues/30>`_)
-* Contributors: Mikael Arguedas
-
-1.8.0 (2017-07-27)
-------------------
+1.7.20 (2017-12-18)
+-------------------
+* fix package.xml to comply with schema (`#31 <https://github.com/ros/bond_core/issues/31>`_)
 * C++ style (`#28 <https://github.com/ros/bond_core/issues/28>`_)
 * switch to package format 2 (`#27 <https://github.com/ros/bond_core/issues/27>`_)
 * remove trailing whitespaces (`#26 <https://github.com/ros/bond_core/issues/26>`_)
