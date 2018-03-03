@@ -2,8 +2,11 @@
 Changelog for package bond_core
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-1.7.20 (2017-12-18)
--------------------
+1.8.1 (2017-10-27)
+------------------
+
+1.8.0 (2017-07-27)
+------------------
 * switch to package format 2 (`#27 <https://github.com/ros/bond_core/issues/27>`_)
 * Contributors: Mikael Arguedas
 
