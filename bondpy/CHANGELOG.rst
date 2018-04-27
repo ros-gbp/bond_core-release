@@ -2,6 +2,9 @@
 Changelog for package bondpy
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+1.8.2 (2018-04-27)
+------------------
+
 1.8.1 (2017-10-27)
 ------------------
 * fix package.xml to comply with schema (`#30 <https://github.com/ros/bond_core/issues/30>`_)
