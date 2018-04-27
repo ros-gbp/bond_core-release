@@ -1,3 +1,34 @@
+## bond_core (melodic) - 1.8.2-0
+
+The packages in the `bond_core` repository were released into the `melodic` distro by running `/usr/bin/bloom-release bond_core -r melodic -t melodic` on `Fri, 27 Apr 2018 20:48:48 -0000`
+
+These packages were released:
+- `bond`
+- `bond_core`
+- `bondcpp`
+- `bondpy`
+- `smclib`
+
+These packages were explicitly ignored:
+- `test_bond`
+
+Version of package(s) in repository `bond_core`:
+
+- upstream repository: https://github.com/ros/bond_core.git
+- release repository: https://github.com/ros-gbp/bond_core-release.git
+- rosdistro version: `1.8.1-0`
+- old version: `1.8.1-0`
+- new version: `1.8.2-0`
+
+Versions of tools used:
+
+- bloom version: `0.6.4`
+- catkin_pkg version: `0.4.1`
+- rosdep version: `0.12.2`
+- rosdistro version: `0.6.8`
+- vcstools version: `0.1.40`
+
+
 ## bond_core (melodic) - 1.8.1-0
 
 The packages in the `bond_core` repository were released into the `melodic` distro by running `/usr/bin/bloom-release bond_core -r melodic -t melodic` on `Sat, 03 Mar 2018 04:36:15 -0000`
