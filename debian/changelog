@@ -1,0 +1,152 @@
+ros-melodic-bond-core (1.8.3-0stretch) stretch; urgency=high
+
+
+
+ -- Mikael Arguedas <mikael@osrfoundation.org>  Thu, 16 Aug 2018 22:00:00 -0000
+
+ros-melodic-bond-core (1.8.2-0stretch) stretch; urgency=high
+
+
+
+ -- Mikael Arguedas <mikael@osrfoundation.org>  Thu, 26 Apr 2018 22:00:00 -0000
+
+ros-melodic-bond-core (1.8.1-0stretch) stretch; urgency=high
+
+
+
+ -- Mikael Arguedas <mikael@osrfoundation.org>  Thu, 26 Oct 2017 22:00:00 -0000
+
+ros-melodic-bond-core (1.8.0-0stretch) stretch; urgency=high
+
+  * switch to package format 2 (#27 <https://github.com/ros/bond_core/issues/27>)
+  * Contributors: Mikael Arguedas
+
+ -- Mikael Arguedas <mikael@osrfoundation.org>  Wed, 26 Jul 2017 22:00:00 -0000
+
+ros-melodic-bond-core (1.7.19-0stretch) stretch; urgency=high
+
+
+
+ -- Mikael Arguedas <mikael@osrfoundation.org>  Sun, 26 Mar 2017 22:00:00 -0000
+
+ros-melodic-bond-core (1.7.18-0stretch) stretch; urgency=high
+
+
+
+ -- Mikael Arguedas <mikael@osrfoundation.org>  Sun, 23 Oct 2016 22:00:00 -0000
+
+ros-melodic-bond-core (1.7.17-0stretch) stretch; urgency=high
+
+  * update maintainer
+  * Contributors: Mikael Arguedas
+
+ -- Mikael Arguedas <mikael@osrfoundation.org>  Mon, 14 Mar 2016 23:00:00 -0000
+
+ros-melodic-bond-core (1.7.16-0stretch) stretch; urgency=high
+
+
+
+ -- Mikael Arguedas <mikael@osrfoundation.org>  Wed, 29 Oct 2014 23:00:00 -0000
+
+ros-melodic-bond-core (1.7.15-0stretch) stretch; urgency=high
+
+
+
+ -- Mikael Arguedas <mikael@osrfoundation.org>  Mon, 27 Oct 2014 23:00:00 -0000
+
+ros-melodic-bond-core (1.7.14-0stretch) stretch; urgency=high
+
+  * Update maintainer field
+  * Contributors: Esteve Fernandez
+
+ -- Mikael Arguedas <mikael@osrfoundation.org>  Wed, 07 May 2014 22:00:00 -0000
+
+ros-melodic-bond-core (1.7.13-0stretch) stretch; urgency=high
+
+
+
+ -- Mikael Arguedas <mikael@osrfoundation.org>  Tue, 20 Aug 2013 22:00:00 -0000
+
+ros-melodic-bond-core (1.7.12-0stretch) stretch; urgency=high
+
+
+
+ -- Mikael Arguedas <mikael@osrfoundation.org>  Wed, 05 Jun 2013 22:00:00 -0000
+
+ros-melodic-bond-core (1.7.11-0stretch) stretch; urgency=high
+
+  * add CMakeLists.txt for metapackage
+  * Contributors: Dirk Thomas
+
+ -- Mikael Arguedas <mikael@osrfoundation.org>  Tue, 12 Mar 2013 23:00:00 -0000
+
+ros-melodic-bond-core (1.7.10-0stretch) stretch; urgency=high
+
+
+
+ -- Mikael Arguedas <mikael@osrfoundation.org>  Sat, 12 Jan 2013 23:00:00 -0000
+
+ros-melodic-bond-core (1.7.9-0stretch) stretch; urgency=high
+
+  * modified dep type of catkin
+  * Contributors: Dirk Thomas
+
+ -- Mikael Arguedas <mikael@osrfoundation.org>  Wed, 26 Dec 2012 23:00:00 -0000
+
+ros-melodic-bond-core (1.7.8-0stretch) stretch; urgency=high
+
+
+
+ -- Mikael Arguedas <mikael@osrfoundation.org>  Wed, 12 Dec 2012 23:00:00 -0000
+
+ros-melodic-bond-core (1.7.7-0stretch) stretch; urgency=high
+
+
+
+ -- Mikael Arguedas <mikael@osrfoundation.org>  Wed, 05 Dec 2012 23:00:00 -0000
+
+ros-melodic-bond-core (1.7.6-0stretch) stretch; urgency=high
+
+
+
+ -- Mikael Arguedas <mikael@osrfoundation.org>  Mon, 29 Oct 2012 23:00:00 -0000
+
+ros-melodic-bond-core (1.7.5-0stretch) stretch; urgency=high
+
+  * clean up package.xml files
+  * Contributors: Dirk Thomas
+
+ -- Mikael Arguedas <mikael@osrfoundation.org>  Fri, 26 Oct 2012 22:00:00 -0000
+
+ros-melodic-bond-core (1.7.4-0stretch) stretch; urgency=high
+
+  * adding bond_core metapackage to replace former stack
+  * Contributors: Tully Foote
+
+ -- Mikael Arguedas <mikael@osrfoundation.org>  Fri, 05 Oct 2012 22:00:00 -0000
+
+ros-melodic-bond-core (1.7.3-0stretch) stretch; urgency=high
+
+
+
+ -- Mikael Arguedas <mikael@osrfoundation.org>  Mon, 01 Oct 2012 22:19:00 -0000
+
+ros-melodic-bond-core (1.7.2-0stretch) stretch; urgency=high
+
+
+
+ -- Mikael Arguedas <mikael@osrfoundation.org>  Mon, 01 Oct 2012 22:06:00 -0000
+
+ros-melodic-bond-core (1.7.1-0stretch) stretch; urgency=high
+
+
+
+ -- Mikael Arguedas <mikael@osrfoundation.org>  Mon, 01 Oct 2012 17:00:00 -0000
+
+ros-melodic-bond-core (1.7.0-0stretch) stretch; urgency=high
+
+
+
+ -- Mikael Arguedas <mikael@osrfoundation.org>  Mon, 01 Oct 2012 14:51:00 -0000
+
+
