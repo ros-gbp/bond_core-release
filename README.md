@@ -1,3 +1,34 @@
+## bond_core (noetic) - 1.8.4-1
+
+The packages in the `bond_core` repository were released into the `noetic` distro by running `/usr/bin/bloom-release -r noetic bond_core` on `Mon, 24 Feb 2020 18:25:00 -0000`
+
+These packages were released:
+- `bond`
+- `bond_core`
+- `bondcpp`
+- `bondpy`
+- `smclib`
+
+These packages were explicitly ignored:
+- `test_bond`
+
+Version of package(s) in repository `bond_core`:
+
+- upstream repository: https://github.com/ros/bond_core.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `1.8.4-1`
+
+Versions of tools used:
+
+- bloom version: `0.9.1`
+- catkin_pkg version: `0.4.16`
+- rosdep version: `0.18.0`
+- rosdistro version: `0.8.0`
+- vcstools version: `0.1.42`
+
+
 ## bond_core (kinetic) - 1.8.3-0
 
 The packages in the `bond_core` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release bond_core -r kinetic -t kinetic` on `Tue, 02 Oct 2018 19:40:31 -0000`
