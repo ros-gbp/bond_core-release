@@ -1,4 +1,4 @@
-cmake_minimum_required(VERSION 2.8.3)
+cmake_minimum_required(VERSION 3.0.2)
 project(bondcpp)
 
 find_package(Boost REQUIRED)
@@ -16,7 +16,7 @@ catkin_package(
   INCLUDE_DIRS include
   LIBRARIES ${PROJECT_NAME}
   CATKIN_DEPENDS bond roscpp smclib
-  DEPENDS Boost
+  DEPENDS Boost UUID
 )
 
 add_library(${PROJECT_NAME}
