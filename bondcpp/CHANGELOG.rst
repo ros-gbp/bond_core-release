@@ -2,6 +2,18 @@
 Changelog for package bondcpp
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+1.8.5 (2020-05-14)
+------------------
+* Bump CMake minimum version to use CMP0048 (`#58 <https://github.com/ros/bond_core/issues/58>`_)
+* Contributors: Michael Carroll
+
+1.8.4 (2020-02-24)
+------------------
+* Solved static linking problems with bondcpp (`#44 <https://github.com/ros/bond_core/issues/44>`_)
+* Add BONDCPP_DECL for Bond class (`#2 <https://github.com/ros/bond_core/issues/2>`_) (`#45 <https://github.com/ros/bond_core/issues/45>`_)
+* Make Michael Carroll the maintainer (`#40 <https://github.com/ros/bond_core/issues/40>`_)
+* Contributors: James Xu, Mikael Arguedas, ivanpauno
+
 1.8.3 (2018-08-17)
 ------------------
 * Argument to Boost Milliseconds must be integral in Boost >= 1.67 (`#37 <https://github.com/ros/bond_core/issues/37>`_)
