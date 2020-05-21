@@ -1,0 +1,166 @@
+ros-melodic-bond-core (1.8.5-2bionic) bionic; urgency=high
+
+  * Bump CMake minimum version to use CMP0048 (#58 <https://github.com/ros/bond_core/issues/58>)
+  * Contributors: Michael Carroll
+
+ -- Michael Carroll <michael@openrobotics.org>  Thu, 14 May 2020 05:00:00 -0000
+
+ros-melodic-bond-core (1.8.4-2bionic) bionic; urgency=high
+
+  * Make Michael Carroll the maintainer (#40 <https://github.com/ros/bond_core/issues/40>)
+  * Contributors: Mikael Arguedas
+
+ -- Michael Carroll <michael@openrobotics.org>  Mon, 24 Feb 2020 06:00:00 -0000
+
+ros-melodic-bond-core (1.8.3-2bionic) bionic; urgency=high
+
+
+
+ -- Mikael Arguedas <mikael@osrfoundation.org>  Fri, 17 Aug 2018 05:00:00 -0000
+
+ros-melodic-bond-core (1.8.2-2bionic) bionic; urgency=high
+
+
+
+ -- Mikael Arguedas <mikael@osrfoundation.org>  Fri, 27 Apr 2018 05:00:00 -0000
+
+ros-melodic-bond-core (1.8.1-2bionic) bionic; urgency=high
+
+
+
+ -- Mikael Arguedas <mikael@osrfoundation.org>  Fri, 27 Oct 2017 05:00:00 -0000
+
+ros-melodic-bond-core (1.8.0-2bionic) bionic; urgency=high
+
+  * switch to package format 2 (#27 <https://github.com/ros/bond_core/issues/27>)
+  * Contributors: Mikael Arguedas
+
+ -- Mikael Arguedas <mikael@osrfoundation.org>  Thu, 27 Jul 2017 05:00:00 -0000
+
+ros-melodic-bond-core (1.7.19-2bionic) bionic; urgency=high
+
+
+
+ -- Mikael Arguedas <mikael@osrfoundation.org>  Mon, 27 Mar 2017 05:00:00 -0000
+
+ros-melodic-bond-core (1.7.18-2bionic) bionic; urgency=high
+
+
+
+ -- Mikael Arguedas <mikael@osrfoundation.org>  Mon, 24 Oct 2016 05:00:00 -0000
+
+ros-melodic-bond-core (1.7.17-2bionic) bionic; urgency=high
+
+  * update maintainer
+  * Contributors: Mikael Arguedas
+
+ -- Mikael Arguedas <mikael@osrfoundation.org>  Tue, 15 Mar 2016 05:00:00 -0000
+
+ros-melodic-bond-core (1.7.16-2bionic) bionic; urgency=high
+
+
+
+ -- Mikael Arguedas <mikael@osrfoundation.org>  Thu, 30 Oct 2014 05:00:00 -0000
+
+ros-melodic-bond-core (1.7.15-2bionic) bionic; urgency=high
+
+
+
+ -- Mikael Arguedas <mikael@osrfoundation.org>  Tue, 28 Oct 2014 05:00:00 -0000
+
+ros-melodic-bond-core (1.7.14-2bionic) bionic; urgency=high
+
+  * Update maintainer field
+  * Contributors: Esteve Fernandez
+
+ -- Mikael Arguedas <mikael@osrfoundation.org>  Thu, 08 May 2014 05:00:00 -0000
+
+ros-melodic-bond-core (1.7.13-2bionic) bionic; urgency=high
+
+
+
+ -- Mikael Arguedas <mikael@osrfoundation.org>  Wed, 21 Aug 2013 05:00:00 -0000
+
+ros-melodic-bond-core (1.7.12-2bionic) bionic; urgency=high
+
+
+
+ -- Mikael Arguedas <mikael@osrfoundation.org>  Thu, 06 Jun 2013 05:00:00 -0000
+
+ros-melodic-bond-core (1.7.11-2bionic) bionic; urgency=high
+
+  * add CMakeLists.txt for metapackage
+  * Contributors: Dirk Thomas
+
+ -- Mikael Arguedas <mikael@osrfoundation.org>  Wed, 13 Mar 2013 05:00:00 -0000
+
+ros-melodic-bond-core (1.7.10-2bionic) bionic; urgency=high
+
+
+
+ -- Mikael Arguedas <mikael@osrfoundation.org>  Sun, 13 Jan 2013 06:00:00 -0000
+
+ros-melodic-bond-core (1.7.9-2bionic) bionic; urgency=high
+
+  * modified dep type of catkin
+  * Contributors: Dirk Thomas
+
+ -- Mikael Arguedas <mikael@osrfoundation.org>  Thu, 27 Dec 2012 06:00:00 -0000
+
+ros-melodic-bond-core (1.7.8-2bionic) bionic; urgency=high
+
+
+
+ -- Mikael Arguedas <mikael@osrfoundation.org>  Thu, 13 Dec 2012 06:00:00 -0000
+
+ros-melodic-bond-core (1.7.7-2bionic) bionic; urgency=high
+
+
+
+ -- Mikael Arguedas <mikael@osrfoundation.org>  Thu, 06 Dec 2012 06:00:00 -0000
+
+ros-melodic-bond-core (1.7.6-2bionic) bionic; urgency=high
+
+
+
+ -- Mikael Arguedas <mikael@osrfoundation.org>  Tue, 30 Oct 2012 05:00:00 -0000
+
+ros-melodic-bond-core (1.7.5-2bionic) bionic; urgency=high
+
+  * clean up package.xml files
+  * Contributors: Dirk Thomas
+
+ -- Mikael Arguedas <mikael@osrfoundation.org>  Sat, 27 Oct 2012 05:00:00 -0000
+
+ros-melodic-bond-core (1.7.4-2bionic) bionic; urgency=high
+
+  * adding bond_core metapackage to replace former stack
+  * Contributors: Tully Foote
+
+ -- Mikael Arguedas <mikael@osrfoundation.org>  Sat, 06 Oct 2012 05:00:00 -0000
+
+ros-melodic-bond-core (1.7.3-2bionic) bionic; urgency=high
+
+
+
+ -- Mikael Arguedas <mikael@osrfoundation.org>  Tue, 02 Oct 2012 05:19:00 -0000
+
+ros-melodic-bond-core (1.7.2-2bionic) bionic; urgency=high
+
+
+
+ -- Mikael Arguedas <mikael@osrfoundation.org>  Tue, 02 Oct 2012 05:06:00 -0000
+
+ros-melodic-bond-core (1.7.1-2bionic) bionic; urgency=high
+
+
+
+ -- Mikael Arguedas <mikael@osrfoundation.org>  Tue, 02 Oct 2012 00:00:00 -0000
+
+ros-melodic-bond-core (1.7.0-2bionic) bionic; urgency=high
+
+
+
+ -- Mikael Arguedas <mikael@osrfoundation.org>  Mon, 01 Oct 2012 21:51:00 -0000
+
+
